@@ -435,6 +435,7 @@ logger.info("自定义日志信息")
 如有问题或建议，请通过以下方式联系：
 - 提交 GitHub Issue
 - 发送邮件至项目维护者
+- https://github.com/863867122/dataAnalysis-backend/tree/main/zuixin
 
 ---
 
